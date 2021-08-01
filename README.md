@@ -8,3 +8,7 @@ The objective of the model is solving for minimization of cost and/or a key deci
 
 Key findings included constraints restricting the model and identifying the problem statement to design and build sensitivity analysis model. Based on the sensitivity model built in excel, insights were generated from the answer report. These key findings were crucial in providing recommendations to help grow in the cost-effective model in the fast-growing lucrative market.
 
+- KONSTANTINOS DRALLOS
+- SAI PRUTHVI KONDURU VENKATA
+- SHARVIL NAWGHARE
+- STAVIN VAS
