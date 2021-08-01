@@ -10,7 +10,7 @@ Key findings included constraints restricting the model and identifying the prob
 
 Kindly go through all the documents for a much more detailed and scripted analysis.
 
-This project was made possible by a team of 5 postgraduate students and the team members contributed effortlessly to make this analysis.
+This project was made possible by a team of 4 postgraduate students and the team members contributed effortlessly to make this analysis.
 
 Team Members: <br>
 KONSTANTINOS DRALLOS <br>
